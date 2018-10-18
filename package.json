@@ -1,0 +1,22 @@
+{
+  "name": "jtms",
+  "version": "1.0.0",
+  "description": "JSON based Terminal Management System",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linwaihung/jtms.git"
+  },
+  "author": "Jeffrey Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linwaihung/jtms/issues"
+  },
+  "homepage": "https://github.com/linwaihung/jtms#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
